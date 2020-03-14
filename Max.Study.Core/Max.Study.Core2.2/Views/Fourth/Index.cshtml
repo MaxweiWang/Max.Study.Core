@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Third Index Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h2>
+        @DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss fff")
+    </h2>
+    <h2>
+        @ViewBag.Now
+    </h2>
+</div>

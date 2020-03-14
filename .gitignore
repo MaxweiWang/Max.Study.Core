@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Max.Study.Core/Max.Core.Interface/bin/Debug
+/Max.Study.Core/Max.Core.Interface/obj
+/Max.Study.Core/Max.Core.Service/bin/Debug
+/Max.Study.Core/Max.Core.Service/obj
+/Max.Study.Core/Max.Core.Service/Class1.cs
+/Max.Study.Core/Max.Core.Utility/bin/Debug
+/Max.Study.Core/Max.Core.Utility/obj

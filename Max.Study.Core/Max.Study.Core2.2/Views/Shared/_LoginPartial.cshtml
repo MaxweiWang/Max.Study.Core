@@ -1,0 +1,36 @@
+﻿@using Max.Core.Utility;
+@using Microsoft.AspNetCore.Http;
+
+@if (base.Context.Session != null && !string.IsNullOrEmpty(base.Context.Session.GetString("CurrentUser")))
+{
+    string user = base.Context.Session.GetString("CurrentUser");
+    CurrentUser currentUser = Newtonsoft.Json.JsonConvert.DeserializeObject<CurrentUser>(user);
+    using (Html.BeginForm("Logout", "Fourth", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                @Html.ActionLink("你好 Session" + currentUser.Name + "!", "Index", "Home", routeValues: null, htmlAttributes: new { title = currentUser.Name })
+            </li>
+            <li><a href="javascript:document.getElementById('logoutForm').submit()">注销</a></li>
+        </ul>
+    }
+}
+else if (base.Context.User?.Identity?.IsAuthenticated ?? false)
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            @Html.ActionLink("你好 Cookie" + base.Context.User.Identity.Name + "!", "Index", "Home", routeValues: null, htmlAttributes: new { title = base.Context.User.Identity.Name })
+        </li>
+        <li><a href="~/Fourth/Logout">注销</a></li>
+    </ul>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            <a href="~/Fourth/Login"> 登录 </a>
+        </li>
+    </ul>
+}

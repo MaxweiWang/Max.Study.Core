@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BMax\\Study\\Max.Study.Core\\Max.Study.Core3.1\\Max.Study.Core3.1.csproj",
-      "projectName": "Max.Study.Core3.1",
-      "projectPath": "D:\\BMax\\Study\\Max.Study.Core\\Max.Study.Core3.1\\Max.Study.Core3.1.csproj",
+      "projectUniqueName": "D:\\BMax\\Study\\Max.Study.Core\\Max.Study.Core3.1\\Max.Study.Core3.csproj",
+      "projectName": "Max.Study.Core3",
+      "projectPath": "D:\\BMax\\Study\\Max.Study.Core\\Max.Study.Core3.1\\Max.Study.Core3.csproj",
       "packagesPath": "C:\\Users\\wangM\\.nuget\\packages\\",
       "outputPath": "D:\\BMax\\Study\\Max.Study.Core\\Max.Study.Core3.1\\obj\\",
       "projectStyle": "PackageReference",
