@@ -16,11 +16,6 @@ namespace Max.Core.ConsoleTest
     /// 2 Core配置文件读取，Log4Net整合
     /// 3 自带依赖注入ServiceCollection解析
     /// 4 定制第三方依赖注入容器Autofac及AOP扩展
-    /// 
-    /// 欢迎大家来到.Net 高级班的Vip课程，我是Richard 老师；
-    /// 、
-    /// 
-    /// 
     ///部署：
     ///      确保Core运行时正常安装
     ///      选择发布项目，发布都指定文件夹；
