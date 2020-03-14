@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Max.Study.Core3._1</RootNamespace>
+  </PropertyGroup>
+
+
+
+</Project>
