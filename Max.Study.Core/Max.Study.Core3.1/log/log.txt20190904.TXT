@@ -1,0 +1,118 @@
+2019-09-04 20:49:30,532 [31] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:30,593 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:30,598 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:30,602 [31] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:34,496 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:34,547 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:34,552 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:34,556 [26] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:35,270 [32] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:35,324 [32] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:35,327 [32] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:35,330 [32] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:35,857 [31] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:35,907 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:35,912 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:35,916 [31] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726
+2019-09-04 20:49:36,348 [32] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:36,393 [32] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:36,397 [32] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:36,400 [32] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:36,800 [31] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:36,845 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:36,849 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:36,852 [31] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726
+2019-09-04 20:49:37,229 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:37,275 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:37,278 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:37,282 [26] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:37,655 [31] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:37,701 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:37,705 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:37,709 [31] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:38,045 [37] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:38,089 [37] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:38,093 [37] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:38,097 [37] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726
+2019-09-04 20:49:38,582 [31] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:38,623 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:38,628 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:38,633 [31] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:39,029 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:39,072 [29] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:39,075 [29] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:39,078 [29] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:39,377 [31] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:39,419 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:39,423 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:39,427 [31] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:39,735 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:39,780 [29] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:39,783 [29] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:39,786 [29] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:40,062 [31] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:40,107 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:40,113 [31] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:40,118 [31] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:40,385 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:40,422 [29] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:40,427 [29] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:40,434 [29] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:40,761 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:40,818 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:40,822 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:40,824 [26] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:41,145 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:41,188 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:41,193 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:41,197 [26] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:41,488 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:41,544 [29] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:41,547 [29] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:41,549 [29] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:41,819 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:41,866 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:41,869 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:41,872 [26] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 20:49:42,138 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Get 执行
+2019-09-04 20:49:42,183 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,127.0.0.1,apiserviceTest_3a6ea514-273a-44cf-a5ff-45b42e4d5039,apiserviceTest,5726 2
+2019-09-04 20:49:42,187 [26] WARN  Max.Study.Core3.Controllers.TestController - key=apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727 8
+2019-09-04 20:49:42,190 [26] WARN  Max.Study.Core3.Controllers.TestController - 127.0.0.1,apiserviceTest_bce7fc24-d328-42d6-b4f0-ca080c598aec,apiserviceTest,5727
+2019-09-04 21:00:49,980 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2019-09-04 21:00:50,009 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2019-09-04 21:00:50,017 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\ruanmou\online12\20190903Advanced12Course91Microservice-1\Max.Study.Core3\Max.Study.Core3
+2019-09-04 21:02:54,115 [21] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:26,079 [30] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:26,882 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:27,876 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:28,367 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:28,731 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:28,956 [21] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:29,120 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:29,278 [21] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:29,428 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:29,618 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:29,802 [30] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:29,957 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:30,100 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:30,238 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:30,408 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:30,534 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:30,683 [21] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:30,839 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:30,992 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:31,120 [21] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:31,271 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:31,408 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:31,565 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:31,761 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:31,896 [30] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:32,049 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:32,202 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:32,353 [21] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:32,496 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:33,338 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:34,971 [35] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:35,491 [18] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:35,868 [26] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行
+2019-09-04 21:04:36,181 [29] WARN  Max.Study.Core3.Controllers.TestController - TestController-Invoke 执行

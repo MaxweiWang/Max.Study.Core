@@ -1,0 +1,3 @@
+D:\BMax\Study\Max.Study.Core\Max.EFCore3_0.Model\obj\Debug\netcoreapp2.2\Max.EFCore3_0.Model.csprojAssemblyReference.cache
+D:\BMax\Study\Max.Study.Core\Max.EFCore3_0.Model\obj\Debug\netcoreapp2.2\Max.EFCore3_0.Model.AssemblyInfoInputs.cache
+D:\BMax\Study\Max.Study.Core\Max.EFCore3_0.Model\obj\Debug\netcoreapp2.2\Max.EFCore3_0.Model.AssemblyInfo.cs

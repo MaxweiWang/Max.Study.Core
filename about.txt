@@ -1,0 +1,19 @@
+1 微服务架构解析，优缺点、挑战与转变
+2 服务实例准备，Consul安装
+3 Consul注册，心跳检测，服务发现
+
+1 Consul消费者，完成负载均衡
+2 基于Ocelot搭建Gateway，完成服务调用
+3 Ocelot+Consul整合使用，网关+服务注册发现
+
+
+1 Ocelot配置进阶，缓存-限流-熔断-聚合等功能实现
+2 解读IdentityServer4验证中心，OAuth-OpenID
+3 建立IdentityServer4的授权服务器，整合QuickUI,Postman拿取Token
+
+
+3 分布式事务解析，CAP&Base，多模式解析
+4 ocker&K8S快速发布部署
+
+1 分布式事务解析，CAP&Base，多模式解析
+2 Docker&K8S快速发布部署
